@@ -13,7 +13,7 @@ To cite this repository:
 ```markdown
 @software{PolymerAI2020github,
 author = {Ruimin Ma, and Tengfei Luo},
-title = {{P}olymerAI},
+title = {{P}olymerAI: An AI-Powered Package for Polymer Informatics},
 url = {https://github.com/RUIMINMA1996/PolymerAI},
 version = {1.0},
 year = {2020},
