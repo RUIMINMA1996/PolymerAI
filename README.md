@@ -17,4 +17,5 @@ title = {{P}olymerAI},
 url = {https://github.com/RUIMINMA1996/PolymerAI},
 version = {1.0},
 year = {2020},
+}
 ```
