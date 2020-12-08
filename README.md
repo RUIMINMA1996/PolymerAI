@@ -7,6 +7,14 @@ An AI-powered package for polymer informatics
   * generate random polymers that can be used for unsupervised learning purposes
   * as a Prior, which can be optimized by algorithms like reinforcement learning later, for polymer design purposes
 
-## Reference
+## Citing PolymerAI
 
-If this repository is helpful for your research please cite this github repo, until an official publication comes out.
+To cite this repository:
+'''
+@software{PolymerAI2020github,
+author = {Ruimin Ma, and Tengfei Luo},
+title = {{P}olymerAI},
+url = {https://github.com/RUIMINMA1996/PolymerAI},
+version = {1.0},
+year = {2020},
+'''
