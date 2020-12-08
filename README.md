@@ -10,7 +10,7 @@ An AI-powered package for polymer informatics
 ## Citing PolymerAI
 
 To cite this repository:
-'''
+'''markdown
 @software{PolymerAI2020github,
 author = {Ruimin Ma, and Tengfei Luo},
 title = {{P}olymerAI},
