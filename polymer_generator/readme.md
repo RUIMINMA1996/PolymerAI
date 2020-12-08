@@ -1,7 +1,8 @@
 
 # Polymer Generator
-A generative model trained on PI1M, which can produce polymers with high validness.
+A generative model trained on PI1M, which can produce polymers with high validness (valid ratio > 90%).
 
+![alt text](https://github.com/RUIMINMA1996/PolymerAI/blob/main/polymer_generator/data/validness.png)
 
 ## Notes
 Latested update: 4:27 pm, 12/8/2020
