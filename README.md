@@ -7,6 +7,18 @@ An AI-powered package for polymer informatics
   * generate random polymers that can be used for unsupervised learning purposes
   * as a Prior, which can be optimized by algorithms like reinforcement learning later, for polymer design purposes
 
+## Installation
+
+PolymerAI is written in pure Python, but it does not support installation from `pip` or `conda` at current stage. More convenient ways for installation will be built in the future.
+
+At current stage, please download the package directly from github or use 
+```bash
+$ git clone https://github.com/RUIMINMA1996/PolymerAI.git
+``` 
+to get the package.
+
+PolymerAI consists of several modules, and in order to run each module, please go to the module's folder and excute files following the instruction in that folder.
+
 ## Citing PolymerAI
 
 To cite this repository:
