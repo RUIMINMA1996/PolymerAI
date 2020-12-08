@@ -4,7 +4,7 @@ A generative model trained on PI1M, which can produce polymers with high validne
 
 
 ## Notes
-Latested update: 4:27 pm, 12/8/2020
+Latested update: 12/8/2020
 ## Version control
 * Python 3.6
 * PyTorch 1.6.0
