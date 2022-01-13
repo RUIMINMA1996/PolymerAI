@@ -19,6 +19,13 @@ to get the package.
 
 PolymerAI consists of several modules, and in order to run each module, please go to the module's folder and excute files following the instruction in that folder.
 
+## Inverse polymer design
+
+run "python agent_baseline_steptest.py" to generate polymers with high thermal conductivity.
+
+pretrained model can be downloaded via the following link:
+https://drive.google.com/file/d/1gAwUq4T5MxFXnRSqmANtvAgTv7slcoc8/view?usp=sharing
+
 ## Citing PolymerAI
 
 To cite this repository:
